@@ -114,22 +114,15 @@ thermal-modelling-gray-cast-iron-python/
 
 │── README.md
 │── Thermal_Modelling_Gray_Cast_Iron.ipynb
-│── Thermal_Modelling_Gray_Cast_Iron.py
-│── Thermal_Modelling_Report.pdf
 
 │── images/
 │     ├── temperature_vs_time.png
 │     ├── solid_fraction_vs_time.png
 │     ├── cooling_rate_vs_time.png
 │     ├── sensible_heat_curve.png
-│     ├── latent_heat_curve.png
+│     ├── thermal_diffusivity_vs_time.png
 │     ├── fourier_number.png
-│     ├── temperature_gradient.png
-│     └── solidification_front_velocity.png
-
-│── results/
-│     ├── simulation_summary.txt
-│     └── key_numerical_results.csv
+│     ├── surface_temperature_gradient.png
 
 └── LICENSE
 ```
