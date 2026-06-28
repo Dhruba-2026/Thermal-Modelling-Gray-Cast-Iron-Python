@@ -175,9 +175,9 @@ thermal-modelling-gray-cast-iron-python/
 
 ---
 
-### Latent Heat Release
+### Thermal Diffusivity
 
-![Latent Heat](images/latent_heat_curve.png)
+![Thermal Diffusivity](images/thermal_diffusivity_vs_time_curve.png)
 
 ---
 
@@ -187,15 +187,15 @@ thermal-modelling-gray-cast-iron-python/
 
 ---
 
-### Temperature Gradient
+### Biot Number
 
-![Temperature Gradient](images/temperature_gradient.png)
+![Biot Number](images/biot_number.png)
 
 ---
 
-### Solidification Front Velocity
+### Surface Temperature Gradient
 
-![Front Velocity](images/solidification_front_velocity.png)
+![Surface Temperature Gradient](images/surface_temperature_gradient.png)
 
 ---
 
