@@ -109,23 +109,19 @@ The governing transient heat equation is solved iteratively over discretized spa
 
 # Repository Structure
 
-```text
-thermal-modelling-gray-cast-iron-python/
+- [README.md](README.md)
+- [Thermal_Modelling_And_Energy_Analysis_Of_Solidification_in_Gray_Cast_Iron.ipynb](Thermal_Modelling_And_Energy_Analysis_Of_Solidification_in_Gray_Cast_Iron.ipynb)
 
-│── README.md
-│── Thermal_Modelling_Gray_Cast_Iron.ipynb
+### Images
 
-│── images/
-│     ├── temperature_vs_time.png
-│     ├── solid_fraction_vs_time.png
-│     ├── cooling_rate_vs_time.png
-│     ├── sensible_heat_curve.png
-│     ├── thermal_diffusivity_vs_time.png
-│     ├── fourier_number.png
-│     ├── surface_temperature_gradient.png
-
-└── LICENSE
-```
+- [temperature_vs_time.PNG](temperature_vs_time.PNG)
+- [solid_fraction_vs_time.PNG](images/solid_fraction_vs_time.PNG)
+- [cooling_rate_vs_time.PNG](images/Cooling_rate_vs_time.PNG)
+- [sensible_heat_curve.PNG](sensible_heat_curve.PNG)
+- [thermal_diffusivity_vs_time.PNG](thermal_diffusivity_vs_time.PNG)
+- [fourier_vs_time.PNG](fourier_vs_time.PNG)
+- [biot_number.PNG](biot_number.PNG)
+- [surface_temperature_gradient.PNG](surface_temperature-gradient.PNG)
 
 ---
 
