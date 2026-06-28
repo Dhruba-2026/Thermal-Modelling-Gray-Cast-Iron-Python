@@ -153,49 +153,49 @@ thermal-modelling-gray-cast-iron-python/
 
 ### Temperature Distribution
 
-![Temperature](images/temperature_vs_time.png)
+![Temperature](images/temperature_vs_time.PNG)
 
 ---
 
 ### Solid Fraction Evolution
 
-![Solid Fraction](images/solid_fraction_vs_time.png)
+![Solid Fraction](images/solid_fraction_vs_time.PNG)
 
 ---
 
 ### Cooling Rate
 
-![Cooling Rate](images/cooling_rate_vs_time.png)
+![Cooling Rate](images/cooling_rate_vs_time.PNG)
 
 ---
 
 ### Sensible Heat
 
-![Sensible Heat](images/sensible_heat_curve.png)
+![Sensible Heat](images/sensible_heat_curve.PNG)
 
 ---
 
 ### Thermal Diffusivity
 
-![Thermal Diffusivity](images/thermal_diffusivity_vs_time_curve.png)
+![Thermal Diffusivity](images/thermal_diffusivity_vs_time_curve.PNG)
 
 ---
 
 ### Fourier Number
 
-![Fourier Number](images/fourier_number.png)
+![Fourier Number](images/fourier_number.PNG)
 
 ---
 
 ### Biot Number
 
-![Biot Number](images/biot_number.png)
+![Biot Number](images/biot_number.PNG)
 
 ---
 
 ### Surface Temperature Gradient
 
-![Surface Temperature Gradient](images/surface_temperature_gradient.png)
+![Surface Temperature Gradient](images/surface_temperature_gradient.PNG)
 
 ---
 
