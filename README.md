@@ -177,13 +177,13 @@ thermal-modelling-gray-cast-iron-python/
 
 ### Thermal Diffusivity
 
-![Thermal Diffusivity](thermal_diffusivity_vs_time_curve.PNG)
+![Thermal Diffusivity](thermal_diffusivity_vs_time.PNG)
 
 ---
 
 ### Fourier Number
 
-![Fourier Number](fourier_number.PNG)
+![Fourier Number](fourier_vs_time.PNG)
 
 ---
 
