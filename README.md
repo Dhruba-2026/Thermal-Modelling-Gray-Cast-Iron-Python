@@ -1,6 +1,8 @@
 # Thermal-Modelling-Gray-Cast-Iron-Python
 A Python-based 1D transient finite difference model for simulating the solidification behavior, heat transfer, and energy analysis of gray cast iron under realistic casting conditions.
 
+# Thermal Modelling and Energy Analysis of Solidification in Gray Cast Iron Using Python
+
 ##  Research Highlights
 
 * Developed a **one-dimensional transient thermal model** based on the **Finite Difference Method (FDM)** to simulate the solidification    behavior of gray cast iron under realistic casting conditions.
@@ -16,9 +18,6 @@ A Python-based 1D transient finite difference model for simulating the solidific
 * Demonstrates the application of **computational metallurgy**, **heat transfer**, and **numerical modeling** to investigate casting        solidification processes relevant to materials engineering and manufacturing.
 
 * Provides a reproducible computational framework that can be extended to advanced studies involving **temperature-dependent material       properties**, **microstructure evolution**, **2D/3D casting simulations**, and **casting process optimization**.
-
-
-# Thermal Modelling and Energy Analysis of Solidification in Gray Cast Iron Using Python
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange)
